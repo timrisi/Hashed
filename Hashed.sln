@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hashed", "Hashed\Hashed.csproj", "{B5449449-BB4D-422B-9582-6C6D87586496}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlyOutNavigation", "..\FlyOutNavigation\FlyOutNavigation\FlyOutNavigation.csproj", "{E98F7600-6C2E-4586-A78C-D42BA89445B9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+		Release|iPhone = Release|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B5449449-BB4D-422B-9582-6C6D87586496}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{B5449449-BB4D-422B-9582-6C6D87586496}.Debug|iPhone.Build.0 = Debug|iPhone
+		{B5449449-BB4D-422B-9582-6C6D87586496}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{B5449449-BB4D-422B-9582-6C6D87586496}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{B5449449-BB4D-422B-9582-6C6D87586496}.Release|iPhone.ActiveCfg = Release|iPhone
+		{B5449449-BB4D-422B-9582-6C6D87586496}.Release|iPhone.Build.0 = Release|iPhone
+		{B5449449-BB4D-422B-9582-6C6D87586496}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{B5449449-BB4D-422B-9582-6C6D87586496}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+		{E98F7600-6C2E-4586-A78C-D42BA89445B9}.Debug|iPhone.ActiveCfg = Debug|Any CPU
+		{E98F7600-6C2E-4586-A78C-D42BA89445B9}.Debug|iPhone.Build.0 = Debug|Any CPU
+		{E98F7600-6C2E-4586-A78C-D42BA89445B9}.Debug|iPhoneSimulator.ActiveCfg = Debug|Any CPU
+		{E98F7600-6C2E-4586-A78C-D42BA89445B9}.Debug|iPhoneSimulator.Build.0 = Debug|Any CPU
+		{E98F7600-6C2E-4586-A78C-D42BA89445B9}.Release|iPhone.ActiveCfg = Release|Any CPU
+		{E98F7600-6C2E-4586-A78C-D42BA89445B9}.Release|iPhone.Build.0 = Release|Any CPU
+		{E98F7600-6C2E-4586-A78C-D42BA89445B9}.Release|iPhoneSimulator.ActiveCfg = Release|Any CPU
+		{E98F7600-6C2E-4586-A78C-D42BA89445B9}.Release|iPhoneSimulator.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Hashed\Hashed.csproj
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,19 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Hashed/UI/Timeline.cs">
+    <Files>
+      <File FileName="Hashed/UI/Timeline.cs" Line="105" Column="8" />
+      <File FileName="Hashed/Tweet.cs" Line="24" Column="15" />
+      <File FileName="Hashed/User.cs" Line="38" Column="64" />
+      <File FileName="Hashed/AppDelegate.cs" Line="46" Column="34" />
+      <File FileName="../ChessGame/ChessGame/Online.cs" Line="418" Column="32" />
+      <File FileName="../ChessGame/ChessGame/Menu.cs" Line="1" Column="1" />
+      <File FileName="Hashed/UI/TweetView.cs" Line="30" Column="4" />
+      <File FileName="Hashed/Custom Element/TweetElement.cs" Line="34" Column="29" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
